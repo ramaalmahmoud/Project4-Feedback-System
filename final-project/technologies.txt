@@ -1,0 +1,11 @@
+
+Python1,  connversation, Beginner
+Python2,  very easy, Intermediate
+Python3, backend, Advanced
+english1,  very easy, Beginner
+english2,  very easy, Intermediate
+english3, writing, Advanced
+english4, easy, Advanced
+html,  very easy, Beginner
+javascript1,  very easy, Beginner
+javascript2, front end, Beginner
